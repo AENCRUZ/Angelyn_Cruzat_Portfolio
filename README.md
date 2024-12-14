@@ -1,4 +1,4 @@
-# Angelyn Cruzat - Portfolio
+
 
 Welcome to my portfolio website! This site showcases my work as a computer science student, along with my passion for environmental sustainability and the Sustainable Development Goals (SDGs).
 
